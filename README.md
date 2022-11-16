@@ -11,13 +11,7 @@ You need:
 
 Wifi Icons >
 ----------------------
-#!/bin/bash ->~/Conky_Grey_Ser4ph4/ssid.sh
 
-# A simple script to display wifi name
-# 'ssid -i' = with icon, 'ssid' = text only
-# Cheers!
-# Addy
-----------------------
 ![image](https://i.imgur.com/sAhFp7s.png)
 ![image](https://i.imgur.com/5LIUnSi.png)
 
