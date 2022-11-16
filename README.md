@@ -9,9 +9,9 @@ You need:
 
 2:  Conky  > conky 1.15.0 or or more recent - https://github.com/brndnmtthws/conky/releases/tag/v1.15.0
 
-
-![image](https://i.imgur.com/sAhFp7s.png)
-![image](https://i.imgur.com/5LIUnSi.png)
+update image 16/11
+![image](https://i.imgur.com/VURjI8g.png)
+![image](https://i.imgur.com/nwrUusG.png)
 
 
 
